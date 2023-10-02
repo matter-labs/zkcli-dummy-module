@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-### 🐛 Bug Report for Dockerized node zkcli module
+### 🐛 Bug Report for Dummy example zkcli module
 #### 📝 Description
 
 Provide a clear and concise description of the bug.
