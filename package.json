@@ -1,5 +1,5 @@
 {
-  "name": "zkcli-dummy-module",
+  "name": "test-zkcli-dummy-module",
   "type": "module",
   "version": "0.0.0-development",
   "description": "zkSync Dummy test/example module for zkcli",

@@ -24,7 +24,7 @@ jobs:
           registry-url: "https://registry.npmjs.org"
       - name: Install dependencies and build
         run: npm ci && npm run build
-      - name: Release
+      - name: Unpublish
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPMJS_NPM_MATTERLABS_AUTOMATION_TOKEN }}
